@@ -1,0 +1,17 @@
+{
+    "Python": ["python", "python3"],
+    "Java": ["java", "java 17", "java 21"],
+    "C++": ["c++", "cpp"],
+    "JavaScript": ["javascript", "js"],
+    "SQL": ["sql", "mysql", "postgresql"],
+    "HTML": ["html", "html5"],
+    "CSS": ["css", "css3"],
+    "Git": ["git", "github"],
+    "Pandas": ["pandas"],
+    "NumPy": ["numpy"],
+    "Django": ["django"],
+    "Flask": ["flask"],
+    "React": ["react", "reactjs"],
+    "Machine Learning": ["machine learning", "ml"],
+    "Data Analysis": ["data analysis", "data analytics"]
+}

@@ -1,0 +1,95 @@
+Python Developer Intern
+TechNova Solutions is looking for a Python Developer Intern.
+Skills: Python, Pandas, NumPy, Git, SQL.
+Stipend: ₹15,000 - ₹20,000 per month.
+Duration: 3 months.
+Work Mode: Remote.
+Location: Jaipur.
+This is a paid internship.
+Job Type: Internship.
+----------
+Java Backend Intern
+We are hiring a Java Backend Intern.
+Required skills: Java, SQL, Git, Spring Boot.
+Stipend: ₹12,000 per month.
+Duration: 12 weeks.
+Work Mode: Hybrid.
+Location: Bengaluru.
+Paid internship.
+Job Type: Internship.
+----------
+Frontend Developer Intern
+Join our frontend development team.
+Skills: HTML, CSS, JavaScript, React, Git.
+Stipend: ₹8,000 - ₹12,000 monthly.
+Duration: 2 months.
+Work Mode: Onsite.
+Location: Pune.
+Paid internship.
+Job Type: Internship.
+----------
+Data Analyst Intern
+Work on data cleaning and reporting projects.
+Skills: Python, SQL, Pandas, NumPy, Data Analysis.
+Stipend: 2.4 LPA.
+Duration: 6 months.
+Work Mode: Hybrid.
+Location: Gurgaon.
+Paid internship.
+Job Type: Internship.
+----------
+Machine Learning Intern
+Assist the team with machine learning experiments.
+Skills: Python, Pandas, NumPy, Machine Learning, SQL.
+Stipend: ₹18,000 per month.
+Duration: 16 weeks.
+Work Mode: Remote.
+Location: Hyderabad.
+Paid internship.
+Job Type: Internship.
+----------
+Web Development Intern
+Learn and work on web development projects.
+Skills: HTML, CSS, JavaScript, Git.
+This is an unpaid internship.
+Duration: 8 weeks.
+Work Mode: Remote.
+Location: Delhi.
+Job Type: Internship.
+----------
+Software Developer Intern
+Work with the backend engineering team.
+Skills: Java, Python, SQL, Git.
+Stipend: ₹20,000 - ₹25,000 per month.
+Duration: 4 months.
+Work Mode: Onsite.
+Location: Noida.
+Paid internship.
+Job Type: Internship.
+----------
+Python Automation Intern
+Build simple automation scripts and internal tools.
+Skills: Python, Flask, Git, SQL.
+Monthly stipend is ₹10,000.
+Duration: 10 weeks.
+Work Mode: Hybrid.
+Location: Ahmedabad.
+Paid internship.
+Job Type: Internship.
+----------
+Software Engineer
+We are looking for a Software Engineer with Java and SQL experience.
+Salary: ₹6 LPA - ₹9 LPA.
+Experience: 0-2 years.
+Work Mode: Onsite.
+Location: Mumbai.
+Job Type: Job.
+----------
+Research Intern
+Assist with research and documentation tasks.
+Skills: Python, Machine Learning, Data Analysis.
+Stipend information is not disclosed.
+Duration: 12 weeks.
+Work Mode: Remote.
+Location: Chennai.
+Job Type: Internship.
