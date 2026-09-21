@@ -1,95 +1,199 @@
 Python Developer Intern
-TechNova Solutions is looking for a Python Developer Intern.
-Skills: Python, Pandas, NumPy, Git, SQL.
-Stipend: ₹15,000 - ₹20,000 per month.
-Duration: 3 months.
-Work Mode: Remote.
-Location: Jaipur.
+About the Role
+We are looking for a motivated Python Developer Intern to join our engineering team. You will work on internal automation tools, data processing scripts, and small backend features.
+
+What you will work with:
+- Python and Python 3
+- Pandas and NumPy
+- REST APIs
+- Git and GitHub
+- Basic SQL
+
+Eligibility
+Students pursuing a degree in Computer Science or a related field can apply. Freshers are welcome.
+
+Compensation: INR 15,000 - INR 20,000 per month
+Internship duration: 3 months
+Work arrangement: Remote
+Office location: Jaipur, Rajasthan
+
 This is a paid internship.
-Job Type: Internship.
+Job Type: Internship
 ----------
-Java Backend Intern
-We are hiring a Java Backend Intern.
-Required skills: Java, SQL, Git, Spring Boot.
-Stipend: ₹12,000 per month.
-Duration: 12 weeks.
-Work Mode: Hybrid.
-Location: Bengaluru.
-Paid internship.
-Job Type: Internship.
+Backend Developer Intern
+We are hiring a Backend Developer Intern to help build and maintain web services. The intern will work closely with backend engineers and contribute to API development and database-related tasks.
+
+Required Skills
+Java, Java 17, Spring Boot, SQL,C++, MySQL, Git and GitHub.
+
+Good to have:
+- Basic knowledge of REST APIs
+- Understanding of data structures
+- Familiarity with Linux
+
+Stipend: ₹12,000/month
+Duration: 12 weeks
+Location: Bengaluru, Karnataka
+Work Mode: Hybrid
+
+The selected candidate will receive a monthly stipend.
+Position Type: Internship
 ----------
 Frontend Developer Intern
-Join our frontend development team.
-Skills: HTML, CSS, JavaScript, React, Git.
-Stipend: ₹8,000 - ₹12,000 monthly.
-Duration: 2 months.
-Work Mode: Onsite.
-Location: Pune.
+We are looking for a frontend development intern who is interested in building responsive and user-friendly web interfaces.
+
+Responsibilities include developing website components, fixing UI issues and working with the design team.
+
+Technical skills:
+HTML5, CSS3, JavaScript, ReactJS, Git
+
+Candidates should have basic knowledge of browser development tools and responsive design.
+
+Monthly compensation will be between ₹8,000 and ₹12,000.
+
+Duration: 2 months
+Work arrangement: On-site
+Location: Pune, Maharashtra
+
 Paid internship.
-Job Type: Internship.
+Job Type: Internship
 ----------
 Data Analyst Intern
-Work on data cleaning and reporting projects.
-Skills: Python, SQL, Pandas, NumPy, Data Analysis.
-Stipend: 2.4 LPA.
-Duration: 6 months.
-Work Mode: Hybrid.
-Location: Gurgaon.
-Paid internship.
-Job Type: Internship.
+Our analytics team is looking for a Data Analyst Intern to support reporting and data cleaning activities.
+
+You will work with structured datasets, prepare reports and assist in identifying trends in business data.
+
+Skills required:
+- Python
+- SQL
+- Pandas
+- NumPy
+- Data Analysis
+
+Qualification:
+Currently pursuing a Bachelor's degree in Computer Science, Information Technology, Mathematics or a related discipline.
+
+Compensation: 2.4 LPA
+Duration: 6 months
+Work Mode: Hybrid
+Location: Gurugram, Haryana
+
+This position is a paid internship.
+Job Type: Internship
 ----------
 Machine Learning Intern
-Assist the team with machine learning experiments.
-Skills: Python, Pandas, NumPy, Machine Learning, SQL.
-Stipend: ₹18,000 per month.
-Duration: 16 weeks.
-Work Mode: Remote.
-Location: Hyderabad.
-Paid internship.
-Job Type: Internship.
+We are seeking an enthusiastic intern to assist our team with machine learning experiments and data preparation.
+
+The role involves cleaning datasets, preparing features, running basic experiments and documenting results.
+
+Technical requirements:
+Python, NumPy, Pandas, SQL and Machine Learning.
+
+Prior experience with scikit-learn is helpful but not mandatory.
+
+Stipend offered: INR 18,000 per month
+Duration: 16 weeks
+Work location: Hyderabad, Telangana
+Work arrangement: Remote
+
+Internship Type: Paid
+Job Type: Internship
 ----------
 Web Development Intern
-Learn and work on web development projects.
-Skills: HTML, CSS, JavaScript, Git.
-This is an unpaid internship.
-Duration: 8 weeks.
-Work Mode: Remote.
-Location: Delhi.
-Job Type: Internship.
+We are offering an opportunity for students interested in learning web development through practical projects.
+
+The intern will assist with creating and updating web pages and fixing basic frontend issues.
+
+Required knowledge:
+- HTML
+- CSS
+- JavaScript
+- Git
+
+No previous professional experience is required.
+
+Duration: 8 weeks
+Work arrangement: Remote
+Location: Delhi, India
+
+This is an unpaid internship. No monthly stipend will be provided.
+Job Type: Internship
 ----------
 Software Developer Intern
-Work with the backend engineering team.
-Skills: Java, Python, SQL, Git.
-Stipend: ₹20,000 - ₹25,000 per month.
-Duration: 4 months.
-Work Mode: Onsite.
-Location: Noida.
-Paid internship.
-Job Type: Internship.
+We are looking for a Software Developer Intern to work with our engineering team on backend services and internal applications.
+
+Responsibilities:
+- Write and maintain application code
+- Work with databases
+- Fix bugs and implement small features
+- Participate in code reviews
+
+Technical skills:
+Java, Python, SQL, Git
+
+Knowledge of data structures and algorithms is preferred.
+
+Compensation range: ₹20,000 to ₹25,000 per month
+Internship period: 4 months
+Office location: Noida, Uttar Pradesh
+Work arrangement: Onsite
+
+This is a paid internship.
+Job Type: Internship
 ----------
 Python Automation Intern
-Build simple automation scripts and internal tools.
-Skills: Python, Flask, Git, SQL.
-Monthly stipend is ₹10,000.
-Duration: 10 weeks.
-Work Mode: Hybrid.
-Location: Ahmedabad.
-Paid internship.
-Job Type: Internship.
+Join our engineering team as a Python Automation Intern. You will help automate repetitive internal processes and build small utility scripts.
+
+Required:
+Python, Flask, SQL and Git.
+
+The role may involve reading JSON files, processing CSV data and creating simple automation scripts.
+
+Monthly stipend is INR 10,000.
+
+The internship will run for approximately 10 weeks.
+Work Mode: Hybrid
+Location: Ahmedabad, Gujarat
+
+Paid position.
+Job Type: Internship
 ----------
 Software Engineer
-We are looking for a Software Engineer with Java and SQL experience.
-Salary: ₹6 LPA - ₹9 LPA.
-Experience: 0-2 years.
-Work Mode: Onsite.
-Location: Mumbai.
-Job Type: Job.
+We are looking for an entry-level Software Engineer to join our product engineering team.
+
+Responsibilities:
+- Develop and maintain software applications
+- Write clean and maintainable code
+- Debug application issues
+- Work with other engineers on product features
+
+Required Skills:
+Java, SQL and Git.
+
+Knowledge of data structures, algorithms and object-oriented programming is expected.
+
+Annual compensation: ₹6 LPA - ₹9 LPA
+Experience: 0-2 years
+Work arrangement: On-site
+Office Location: Mumbai, Maharashtra
+
+This is a full-time employment opportunity.
+Job Type: Job
 ----------
 Research Intern
-Assist with research and documentation tasks.
-Skills: Python, Machine Learning, Data Analysis.
-Stipend information is not disclosed.
-Duration: 12 weeks.
-Work Mode: Remote.
-Location: Chennai.
-Job Type: Internship.
+Our research team is looking for an intern to support technical research, documentation and experimental projects.
+
+The intern may work with datasets, research papers and basic machine learning concepts.
+
+Preferred skills:
+Python, Machine Learning and Data Analysis.
+
+Applicants should be comfortable reading technical documentation and presenting their findings.
+
+Stipend information is not disclosed at this time.
+
+Duration: 12 weeks
+Work arrangement: Remote
+Location: Chennai, Tamil Nadu
+
+Job Type: Internship
