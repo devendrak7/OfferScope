@@ -114,7 +114,6 @@ def extract_stipend(posting):
             amount = to_number(match.group(1))
             return amount,amount,amount
 
-        # 5. Amount without currency but with a monthly word: "15,000 per month"
         match = re.search(NUMBER + r"\s*(?:/\s*month|per month|monthly)", line, re.IGNORECASE)
         if match:
             amount = to_number(match.group(1))
