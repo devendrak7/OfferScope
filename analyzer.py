@@ -3,11 +3,7 @@ import numpy as np
 
 def get_stipend_statistics(df):
     valid_stipends = df["stipend_mid"].dropna()
-
-    statistics = valid_stipends.describe()
-    percentile_90 = valid_stipends.quantile(0.90)
-
-    return valid_stipends, statistics, percentile_90
+    return valid_stipends
 
 def get_outliers(valid_stipends):
     q1 = valid_stipends.quantile(0.25)
