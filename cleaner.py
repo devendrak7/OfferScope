@@ -43,8 +43,5 @@ def create_dataframe(postings):
 
     df = pd.DataFrame(records)
 
-    # df["stipend_min"] = pd.to_numeric(df["stipend_min"], errors="coerce")
-    # df["stipend_max"] = pd.to_numeric(df["stipend_max"], errors="coerce")
-    # df["stipend_mid"] = pd.to_numeric(df["stipend_mid"], errors="coerce")
     return df
 
