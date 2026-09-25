@@ -12,4 +12,4 @@ def show_menu():
 
 
 def get_choice():
-    return input("Enter your choice: ")
+    return input("Enter your choice: ").strip()
