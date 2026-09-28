@@ -7,6 +7,9 @@ def load_postings(file_path):
     except FileNotFoundError:
         print("Error: File not found.")
         return []
+    except UnicodeDecodeError:
+        print("Error: File is not UTF-8 encoded.")
+        return []
     parts = content.split("----------")
     cleaned =[item.strip() for item in parts if item.strip()]
     return cleaned
