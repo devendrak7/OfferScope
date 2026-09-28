@@ -12,15 +12,14 @@ try:
         SKILLS = json.load(f)
 except (FileNotFoundError, json.JSONDecodeError):
     SKILLS = {}
-PAY_WORDS_REGEX =re.compile(r"")
 PAY_WORDS_REGEX = re.compile(r"stipend|salary|\bctc\b|compensation|per month|/month|monthly|\blpa\b", re.IGNORECASE)
 SKIP_WORDS_REGEX = re.compile(r"\bfees?\b|funding|funded|raised|deposit", re.IGNORECASE)
 YEARLY_WORDS_REGEX = re.compile(r"per annum|per year|/year|yearly|annual", re.IGNORECASE)
-CURRENCY = r"(?:₹|\bINR|\bRs\.?)"
+CURRENCY = r"(?:₹|\bINR\b|\bRs\b\.?)"
 NUMBER = r"(\d[\d,]*(?:\.\d+)?)"
 
 def extract_title(posting):
-    lines = posting.splitlines()
+    lines = posting.splitlines()  #doubt
 
     for line in lines:
         if line.strip():
@@ -81,6 +80,7 @@ def extract_pay_status(posting):
 def to_number(text):
     return float(text.replace(",", ""))
 def extract_stipend(posting):
+
     for line in posting.splitlines():
         if not PAY_WORDS_REGEX.search( line):
             continue
