@@ -1,9 +1,11 @@
-import numpy as np
+import pandas as pd
 
 
 def get_stipend_statistics(df):
     valid_stipends = df["stipend_mid"].dropna()
-    return valid_stipends
+    valid_stipends_describe = valid_stipends.describe()
+    valid_stipends_90 = valid_stipends.quantile(0.90)
+    return valid_stipends,valid_stipends_describe  ,valid_stipends_90
 
 def get_outliers(valid_stipends):
     q1 = valid_stipends.quantile(0.25)
@@ -20,7 +22,6 @@ def get_outliers(valid_stipends):
 
 def get_skill_demand(df):
     if len(df) == 0:
-        import pandas as pd
         return pd.Series(dtype=int), pd.Series(dtype=float)
     skill_counts = df["skills"].explode().value_counts()
     skill_percentage = (skill_counts / len(df)) * 100
@@ -45,15 +46,3 @@ def get_skill_pay(df, skill_counts):
         skill_pay[skill] = median_stipend
 
     return skill_pay
-
-def get_numpy_statistics(valid_stipends):
-    stipend_array = np.array(valid_stipends)
-
-    return {
-        "mean": np.mean(stipend_array),
-        "median": np.median(stipend_array),
-        "std": np.std(stipend_array,ddof=1),
-        "percentile_25": np.percentile(stipend_array, 25),
-        "percentile_75": np.percentile(stipend_array, 75),
-        "percentile_90": np.percentile(stipend_array, 90)
-    }
