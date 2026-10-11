@@ -11,4 +11,4 @@ def export_txt(df, file_path):
         file.write(df.to_string(index=False))
     print("TXT exported successfully.")
 
-
+ 
